@@ -1,0 +1,521 @@
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url(../fonts/Poppins-Italic.ttf);
+}
+
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url(../fonts/Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Poppins', sans-serif;
+    src: url(../fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Open Sans', sans-serif;
+    src: url(../fonts/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Andada Pro', serif;
+    src: url(../fonts/AndadaPro-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Andada Pro', serif;
+    src: url(../fonts/AndadaPro-Italic.ttf);
+}
+
+@font-face {
+    font-family: 'Andada Pro', serif;
+    src: url(../fonts/AndadaPro-SemiBoldItalic.ttf);
+}
+
+@font-face {
+    font-family: 'Andada Pro', serif;
+    src: url(../fonts/AndadaPro-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'FiraGo', serif;
+    src: url(../fonts/FiraGO.ttf);
+}
+
+body {
+    background-color: #f5f5f5;
+}
+
+.container-1 {
+    max-width: 1188px;
+    width: 90%;
+    margin: 0 auto;
+    border-bottom: 1px solid black;
+}
+
+.container-2 {
+
+    max-width: 1188px;
+    width: 90%;
+    margin: 0 auto;
+
+}
+
+.container-3 {
+
+    max-width: 1188px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.container-4 {
+    max-width: 1188px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+header ul {
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+
+}
+
+
+.li-about {
+    font-family: 'Poppins', sans-serif;
+}
+
+.li-contact {
+    font-family: 'Poppins', sans-serif;
+}
+
+.li-blog {
+    font-family: 'Poppins', sans-serif;
+}
+
+.li-home {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+header li {
+    display: inline-block;
+}
+
+.li-about {
+    margin-left: 51px;
+    margin-right: 51px;
+}
+
+.li-contact {
+    margin-right: 51px;
+}
+
+.li-user {
+    margin-left: 327px;
+}
+
+.YOUBYE {
+    margin-right: 280px;
+}
+
+.card-title h1 {
+    color: black;
+    font-size: 24px;
+    line-height: 29px;
+    height: 29px;
+    font-family: 'FiraGo', sans-serif;
+    margin: 72px 400px;
+    width: 404px;
+    font-weight: 600;
+
+}
+
+.product-box {
+    display: inline-block;
+    margin-top: 65px;
+    margin-right: 40px;
+}
+
+.product-wrapper {
+
+    display: inline-block;
+    border: 1px solid black;
+    width: 353px;
+    height: 487px;
+    padding: 20px 20px 30px 20px;
+}
+
+.product-wrapper h2 {
+    padding: 5px 26px 18px 26px;
+    line-height: 24px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.product-wrapper p {
+    font-size: 14px;
+    line-height: 21px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+
+}
+
+.product-wrapper button {
+    border: 1px solid black;
+    Font-size: 12px;
+    Line-height: 18px;
+    padding: 6px 26px;
+    border-radius: 4px;
+    background-color: #f5f5f5
+}
+
+.product-footer {
+    margin-bottom: 68px;
+    margin-top: 23px;
+    text-align: right;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.bottom-product {
+    display: inline-block;
+
+}
+
+
+
+.bottom-product-list {
+    margin-left: 160px;
+    margin-right: 160px;
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.card-footer {
+    margin-left: 950px;
+
+    margin-top: 37px;
+}
+
+
+
+.button-4 {
+
+    font-size: 15px;
+    line-height: 21px;
+    font-family: 'FiraGo', serif;
+
+}
+
+.contact-us {
+    text-align: center;
+    color: #7D0000;
+    Font-size: 40px;
+    Line-height: 47px;
+    font-weight: 700;
+    text-align: center;
+    margin: 147px 550px;
+    font-family: 'Andada Pro', serif;
+}
+
+.contact-wrapper {
+    font-family: 'Andada Pro', serif;
+    font-weight: 600;
+}
+
+address {
+
+    margin-left: 350px;
+    margin-top: 34px;
+    font-size: 25px;
+    line-height: 34px;
+    font-family: 'Andada Pro', serif;
+
+    display: inline-block;
+}
+
+
+
+iframe {
+    margin-top: 160px;
+    margin-left: 300px;
+    width: 908px;
+}
+
+.first-title {
+    width: 392px;
+    font-size: 40px;
+    color: #7D0000;
+    margin-left: 400px;
+    margin-top: 134px;
+    font-family: 'Andada Pro', serif;
+    font-weight: 600;
+}
+
+.about-content {
+
+    width: 650px;
+    height: 205px;
+    line-height: 41.35px;
+    font-size: 25px;
+    margin-top: 105px;
+    font-family: 'Andada Pro', serif;
+    font-weight: 600;
+}
+
+.about-adress {
+    margin-top: 89px;
+    margin-left: 300px;
+    font-size: 25px;
+    width: 327px;
+    height: 29px;
+    font-family: 'Andada Pro', serif;
+    font-style: italic;
+}
+
+.about-img {
+    margin-left: 650px;
+    margin-top: -250px;
+}
+
+
+
+
+
+
+
+
+.blog-title-h1 {
+    margin-left: 94px;
+    margin-top: 47px;
+    font-size: 24px;
+    width: 446px;
+    font-family: 'FiraGo', serif;
+
+
+
+}
+
+
+.blog-content li {
+    display: inline-block;
+}
+
+.blog-wrapper {
+    text-align: center;
+    font-size: 18px;
+    margin: 93px 68px;
+
+}
+
+.blog-wrapper li {
+    font-family: 'FiraGo', serif;
+    font-weight: 600;
+}
+
+.beauty-wrapper {
+    margin-left: 65px;
+    margin-right: 65px;
+}
+
+.art-wrapper {
+    margin-left: 65px;
+}
+
+
+.about-img-1 {
+
+    display: inline-block;
+
+}
+
+.card-box-1 {
+    display: inline-block;
+    vertical-align: top;
+
+    background-color: #E5EBE5;
+    width: 876px;
+    height: 228px;
+}
+
+
+.about-img-2 {
+    display: inline-block;
+}
+
+.card-box-1 h2,
+.card-box-2 h2 {
+    font-size: 18px;
+    height: 32px;
+    margin-top: 38px;
+    margin-left: 36px;
+    font-family: 'FiraGo', serif;
+    font-weight: 600;
+
+}
+
+.card-box-1 p,
+.card-box-2 p {
+
+    width: 840px;
+    font-size: 14px;
+    line-height: 16.8px;
+    margin-top: 32px;
+    margin-left: 36px;
+    font-family: 'FiraGo', serif;
+
+}
+
+.card-bottom,
+.card-bottom-1 {
+    text-align: right;
+    margin: 14px 0 63px;
+}
+
+.card-bottom button,
+
+.card-bottom-1 button {
+    font-size: 12px;
+    line-height: 14.4px;
+    text-decoration-line: underline;
+    width: 174px;
+    height: 40px;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+}
+
+
+.card-box-2 {
+    width: 876px;
+    height: 228px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: #E5EBE5;
+}
+
+
+
+.profile {
+    margin-left: 68px;
+    margin-top: 220px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.about-img-3 {
+    display: inline-block;
+    margin-top: 169px;
+    margin-left: 206px;
+}
+
+.name {
+    font-size: 30px;
+    Line-height: 45px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+
+}
+
+
+.profession-content {
+    margin-top: 14px;
+    Font-size: 22px;
+    Line-height: 33px;
+    color: #546CCC;
+    font-size: 22px;
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+}
+
+.main-title {
+    margin-left: 265px;
+    margin-top: 96px;
+}
+
+.main-title-name {
+    text-decoration: underline solid #7D0000;
+    font-size: 24px;
+    line-height: 36px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+
+}
+
+.personal-information {
+    margin-top: 74px;
+    margin-left: 230px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.personal-information-2 {
+    display: inline-block;
+    margin-left: 147px;
+    font-size: 20px;
+    line-height: 30px;
+
+}
+
+.personal-information ul {
+    list-style: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.personal-information-2 ul {
+    list-style: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+
+
+.personal-adress {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-decoration: none;
+}
+
+.city {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.user-botton {
+    margin-left: 900px;
+    margin-top: 41px;
+}
+
+.design {
+    font-size: 25px;
+    line-height: 38px;
+    color: #FFFFFF;
+    background-color: #87AC87;
+    border-radius: 10px;
+    border-color: #87AC87;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
